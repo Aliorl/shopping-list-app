@@ -1,24 +1,24 @@
-# blog
+# Shopping List App
 
-## Project setup
-```
-npm install
-```
+## Demo:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Welome to my shopping list app, which you can visit here: https://aliorl.github.io/shopping-list-app/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Page preview:
 
-### Lints and fixes files
-```
-npm run lint
-```
+![website gif](## Demo:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Welome to my currency converter, which you can visit here: https://aliorl.github.io/currency-converter/
+
+## Page preview:
+
+![website gif](https://media.giphy.com/media/jjgzaQza3XzHq8iAuT/giphy.gif)
+
+## Description:
+This app allows you to enter new products to buy and to tick off item which you already have.
+
+## Technologies used in the project:
+- HTML
+- CSS
+- JavaScript (Vue.js)
+
